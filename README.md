@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Space Jekyll
 
 A simple and elegant Jekyll theme based on Spacemacs. The theme works well on mobile devices as well.
@@ -124,3 +125,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+=======
+# Merristasis.github.io
+hello
+>>>>>>> 1f35719d73846d887504002630bfbc06ce9a13f5
