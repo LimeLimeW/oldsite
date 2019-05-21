@@ -1,6 +1,0 @@
-pygments: true
-permalink: /otter-pop/:year/:month/:day/:title
-markdown: rdiscount
-exclude: ['.git']
-name: "Merristasis"
-url: http://merristasis.github.io
