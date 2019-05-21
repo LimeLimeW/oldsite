@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+# Musician / Live coding / VJing
+
+## Workshops
+[Tidal Cycles with TOPLAP France at Nogozon](https://www.facebook.com/events/391656054990763/)
+ 
